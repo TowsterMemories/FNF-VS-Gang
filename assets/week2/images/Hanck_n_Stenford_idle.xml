@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hanck_n_Stenford_idle.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stanford idle instancia 10000" x="0" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10001" x="0" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10002" x="701" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10003" x="701" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10004" x="1402" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10005" x="1402" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10006" x="2103" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10007" x="2103" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10008" x="2804" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10009" x="2804" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10010" x="2804" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10011" x="2804" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10012" x="2804" y="0" width="701" height="1139"/>
+	<SubTexture name="Stanford idle instancia 10013" x="2804" y="0" width="701" height="1139"/>
+	<SubTexture name="hanck idle instancia 10000" x="3505" y="0" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10001" x="3505" y="0" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10002" x="0" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10003" x="0" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10004" x="580" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10005" x="580" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10006" x="1160" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10007" x="1160" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10008" x="1740" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10009" x="1740" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10010" x="1740" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10011" x="1740" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10012" x="1740" y="1139" width="580" height="924"/>
+	<SubTexture name="hanck idle instancia 10013" x="1740" y="1139" width="580" height="924"/>
+</TextureAtlas>

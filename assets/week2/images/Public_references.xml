@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Public_references.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg characters animation instancia 10000" x="0" y="0" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10001" x="0" y="0" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10002" x="1991" y="0" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10003" x="1991" y="0" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10004" x="0" y="753" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10005" x="0" y="753" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10006" x="1991" y="753" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10007" x="1991" y="753" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10008" x="1991" y="753" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10009" x="1991" y="753" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10010" x="1991" y="753" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10011" x="1991" y="753" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10012" x="1991" y="753" width="1991" height="753"/>
+	<SubTexture name="bg characters animation instancia 10013" x="1991" y="753" width="1991" height="753"/>
+</TextureAtlas>

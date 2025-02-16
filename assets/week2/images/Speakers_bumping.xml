@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Speakers_bumping.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speaker instancia 10000" x="0" y="0" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10001" x="549" y="0" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10002" x="549" y="0" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10003" x="1098" y="0" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10004" x="1098" y="0" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10005" x="0" y="627" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10006" x="0" y="627" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10007" x="0" y="627" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10008" x="0" y="627" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10009" x="0" y="627" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10010" x="0" y="627" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10011" x="0" y="627" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10012" x="0" y="627" width="549" height="627"/>
+	<SubTexture name="speaker instancia 10013" x="0" y="627" width="549" height="627"/>
+	<SubTexture name="speaker instancia 20000" x="549" y="627" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20001" x="1097" y="627" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20002" x="1097" y="627" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20003" x="0" y="1255" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20004" x="0" y="1255" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20005" x="548" y="1255" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20006" x="548" y="1255" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20007" x="548" y="1255" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20008" x="548" y="1255" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20009" x="548" y="1255" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20010" x="548" y="1255" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20011" x="548" y="1255" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20012" x="548" y="1255" width="548" height="628"/>
+	<SubTexture name="speaker instancia 20013" x="548" y="1255" width="548" height="628"/>
+</TextureAtlas>

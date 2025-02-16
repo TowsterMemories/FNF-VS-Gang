@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Fuck", "cp", [84, 188, 240]],
+		["Your", "cp", [84, 188, 240]],
+		["Mom", "cp", [84, 188, 240]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "cpStreet",
+
+	"storyName": "You mom has been",
+	"weekBefore": "week7",
+	"weekName": "Week 8",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
